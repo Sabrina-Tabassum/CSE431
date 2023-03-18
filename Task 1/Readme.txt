@@ -11,6 +11,6 @@ Project title:
 Rundown of the Medical Natural Language Processing Task based on Actual Documents
 
 Group Number:15
-22241158	Sabrina Tabassum
-18301189	S. M. Navin Nayer Anik
-18101296  Fahim Abrar
+22241158 Sabrina Tabassum
+18301189 S. M. Navin Nayer Anik
+18101296 Fahim Abrar
