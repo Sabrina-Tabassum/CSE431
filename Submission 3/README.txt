@@ -1,9 +1,11 @@
 Link to unlisted YouTube video:
 https://youtu.be/DqykhsdsSrk
 
+
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
 https://github.com/Sabrina-Tabassum/CSE431/blob/main/Submission%203/Concept%20Map.pdf
+
 Native/original format: 
 https://draw.io/...
 
@@ -17,8 +19,10 @@ Pearson
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
 
+
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/26.pdf
+
 
 Group Number:
 02
