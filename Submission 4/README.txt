@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/qqggsscbggwf
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/ZyN97NaOSxw
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -11,7 +11,7 @@ Paper title:
 Partially automated exam answer script checking for Intro to Marketing
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1vW0ROBO5Bu44dxQZ9L1v2EObj5N81-CIB_Ib1DGzf8Y/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
