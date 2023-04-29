@@ -11,7 +11,7 @@ Paper title:
 Rundown of the Medical Natural Language Processing Task based on Actual Documents
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1jSIXRhTjq_43W6Gv_muWGzDUe8rA0ZjtNZdzSL1FphM/edit?usp=sharing
+https://docs.google.com/presentation/d/1jwRNH4h_qwMaSLUmdKPPL34CLcfUbm02XcNiN3VlJ1w/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 10 June 2023
