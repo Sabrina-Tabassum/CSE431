@@ -2,28 +2,28 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/qqggsscbggwf
 
 Unlisted YouTube video:
-https://youtu.be/tEdvUlTSLMY
+https://youtu.be/bIX2BFDROjk
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Rundown of the Medical Natural Language Processing Task based on Actual Documents
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1vW0ROBO5Bu44dxQZ9L1v2EObj5N81-CIB_Ib1DGzf8Y/edit?usp=sharing
+https://docs.google.com/presentation/d/1jSIXRhTjq_43W6Gv_muWGzDUe8rA0ZjtNZdzSL1FphM/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-25 October 1999
+10 June 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+1570908293
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+15th IEEE International Conference CICN 2023
 
 Conference URL:
-http://confsite/...
+http://cicn.in/index.html
 
 Group Number:
 02
