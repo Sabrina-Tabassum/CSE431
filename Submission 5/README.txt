@@ -14,7 +14,7 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1jwRNH4h_qwMaSLUmdKPPL34CLcfUbm02XcNiN3VlJ1w/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-10 June 2023
+29 April 2023
 
 Paper submission ID: (received) from conference/workshop
 1570908293
